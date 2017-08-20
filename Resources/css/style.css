@@ -15,3 +15,6 @@ video{object-fit: contain;}
 .subguide{font-family: Verdana;
 font-size: 21px;
 color:Gray;}
+footer{font-size: 20px;
+text-align: right;
+color:gray;}
